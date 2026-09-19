@@ -1,0 +1,7 @@
+google-generativeai
+paramiko
+streamlit
+python-dotenv
+pandas
+plotly
+streamlit-autorefresh
